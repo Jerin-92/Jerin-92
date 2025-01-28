@@ -1,4 +1,4 @@
-Hi, I’m @Jerin-92
+Hi, I’m @Jerin-92.
 I’m interested in data analysis and visualization.
 I’m currently learning python and data science.
 I’m looking to collaborate on statistical analysis.
